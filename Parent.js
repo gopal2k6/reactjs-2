@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './style.css';
 
-export default class Parent extends React.Components {
+export default class Parent extends React.Component {
   render() {
     return (
       <div>
